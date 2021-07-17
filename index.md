@@ -10,7 +10,7 @@
 
 #### #production
 
-[s3-mysql-backup-cron](https://github.com/getfundwave/nerdtalk/edit/gh-pages/index.md)
+[s3-mysql-backup-cron](https://github.com/getfundwave/s3-mysql-backup-cron)
 
 
 #### #web
