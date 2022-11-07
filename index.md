@@ -22,7 +22,7 @@
 
 [lit-react-wrapper](https://www.npmjs.com/package/lit-react-wrapper)
 
-[noton-webapps](https://github.com/getfundwave/notion-webapps)
+[notion-webapps](https://github.com/getfundwave/notion-webapps)
 
 wave-avatars (upcoming)
 
