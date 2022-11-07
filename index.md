@@ -11,12 +11,14 @@
 #### #production
 
 [s3-mysql-backup-cron](https://github.com/getfundwave/s3-mysql-backup-cron)
+[nginx-proxy](https://github.com/getfundwave/nginx-proxy)
+[nginx-acme](https://github.com/getfundwave/nginx-acme)
 
 
 #### #web
 
 [lit-react-wrapper](https://www.npmjs.com/package/lit-react-wrapper)
-
+[noton-webapps](https://github.com/getfundwave/notion-webapps)
 wave-avatars (upcoming)
 
 
