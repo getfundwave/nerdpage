@@ -20,7 +20,7 @@
 
 #### #web
 
-[lit-react-wrapper](https://www.npmjs.com/package/lit-react-wrapper)
+lit-react-wrapper ([github](https://github.com/getfundwave/lit-react-wrapper), [npm](https://www.npmjs.com/package/lit-react-wrapper))
 
 [notion-webapps](https://github.com/getfundwave/notion-webapps)
 
